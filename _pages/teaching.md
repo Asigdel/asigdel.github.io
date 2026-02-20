@@ -8,7 +8,7 @@ author_profile: true
 
 ## Teaching
 
-### Teaching Assistant at the University of Wisconsin-Madison
+### Teaching Assistant at University of Wisconsin-Madison
 
 - ANSCI 610 Introduction to Quantitative Genetics (Fall 2025)
 - ANSCI 363 Principles of Animal Breeding (Spring 2021) 
@@ -17,4 +17,9 @@ author_profile: true
 ### Teaching Assistant at Bruce Weir Summer Institute in Statistical Genetics, Georgia Tech
 
 - QG1 Quantitative Genetics (Summer 2024)  
-- QG2 Mixed Models in Quantitative Genetics (Summer 2024) 
+- QG2 Mixed Models in Quantitative Genetics (Summer 2024)
+
+### Teaching Assistant at University of Florida
+- ANS 6905 Applied Statistics for Animal Sciences (Fall 2017, Fall 2018)
+
+ 
