@@ -16,8 +16,6 @@ During my graduate studies, I developed and applied statistical and computationa
 , with applications in livestock and crop improvement.
 
 
----
-
 ## News
 
 **Mar 2024**  
