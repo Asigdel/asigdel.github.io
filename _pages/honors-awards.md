@@ -5,7 +5,6 @@ title: "Honors and Awards"
 permalink: /honors-awards/
 author_profile: true
 ---
-
 ## Scholarships & Awards
 
 - Department of Animal Sciences Teaching Award, University of Florida — *November 2019*  
