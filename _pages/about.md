@@ -14,6 +14,8 @@ I am a Research Associate in [Animal & Dairy Sciences Department](https://andysc
 
 During my graduate studies, I developed and applied statistical and computational methods for genomic analyses and prediction of complex traits in livestock. I utilized advanced computational approaches to analyze large-scale genomic data and improve the understanding of genetic architecture of economically relevant traits. My research involves gene mapping, gene-set analysis, genomic prediction, multi-omics data integration. My current research focuses on using enviromics approaches to studying genotype-by-environment interactions
 , with applications in livestock and crop improvement.
+
+
 ---
 
 ## News
