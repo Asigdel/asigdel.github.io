@@ -19,7 +19,6 @@ During my graduate studies, I developed and applied statistical and computationa
 ## News
 
 **Mar 2026**
-
 Selected as a mentee in the Bayer University Mentoring Program (B4U), a one-year mentorship with Bayer Scientists
 
 **Mar 2024**  
