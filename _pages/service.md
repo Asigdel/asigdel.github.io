@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Reviewer
+- *BMC Veterinary Research*, 2026
 - *Journal of Dairy Science*, 2024
 - *BMC Genomics*, 2024
 - *Frontiers in Microbiology*, 2023
