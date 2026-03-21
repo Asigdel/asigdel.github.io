@@ -18,8 +18,11 @@ During my graduate studies, I developed and applied statistical and computationa
 
 ## News
 
+**Mar 2026**
+Selected as a mentee in the Bayer University Mentoring Program (B4U), a one-year mentorship with Bayer Scientists
+
 **Mar 2024**  
-Joined UW-Madison as a Research Associate.
+Joined UW-Madison as a Research Associate
 
 **June 2022**  
-Joined School of Veterinary Medicine, University of Pennsylvania as a Postdoctoral Researcher.
+Joined School of Veterinary Medicine, University of Pennsylvania as a Postdoctoral Researcher
